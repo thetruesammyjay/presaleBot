@@ -21,5 +21,5 @@ This is a Telegram bot that tracks $PUG token buys on the Solana blockchain and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/telegram-pug-bot.git
+git clone https://github.com/thetruesammyjay/telegram-pug-bot.git
 cd telegram-pug-bot
